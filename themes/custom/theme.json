@@ -32,6 +32,21 @@
   } , {
     "tag": "database",
     "shape": "cylinder"
+  } , {
+    "tag": "robot",
+    "shape": "Robot"
+  } , {
+    "tag": "component",
+    "shape": "component"
+  } , {
+    "tag": "ui",
+    "shape": "MobileDeviceLandscape"
+  }, {
+    "tag":"web",
+    "shape":"webbrowser"
+  }, {
+    "tag": "window",
+    "shape": "window"
   }
   
   
