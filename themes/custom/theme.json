@@ -25,27 +25,30 @@
     "background" : "#ffffff"
   } , {
     "tag" : "data",
-    "shape" : "folder"
+    "shape" : "Window"
+  } , {
+    "tag": "folder",
+    "shape": "Folder"
   } , {
     "tag": "pipeline",
     "shape": "Pipe"
   } , {
     "tag": "database",
-    "shape": "cylinder"
+    "shape": "Cylinder"
   } , {
     "tag": "robot",
     "shape": "Robot"
   } , {
     "tag": "component",
-    "shape": "component"
+    "shape": "Component"
   } , {
     "tag": "ui",
     "shape": "MobileDeviceLandscape"
   }, {
     "tag":"web",
-    "shape":"webbrowser"
+    "shape":"WebBrowser"
   }, {
-    "tag": "window",
+    "tag": "Window",
     "shape": "window"
   }
   
