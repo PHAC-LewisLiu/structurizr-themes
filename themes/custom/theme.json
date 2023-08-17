@@ -52,7 +52,7 @@
     "shape": "window"
   }, {
     "tag": "grant",
-    "background": "#00FF00",
+    "background": "#004040",
     "_comment": "green"
   }, {
     "tag": "proposed",
