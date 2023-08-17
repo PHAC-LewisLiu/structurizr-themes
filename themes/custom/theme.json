@@ -50,6 +50,14 @@
   }, {
     "tag": "Window",
     "shape": "window"
+  }, {
+    "tag": "grant",
+    "background": "#00FF00",
+    "_comment": "green"
+  }, {
+    "tag": "proposed",
+    "background": "#FFA500",
+    "_comment": "orange"
   }
   
   
