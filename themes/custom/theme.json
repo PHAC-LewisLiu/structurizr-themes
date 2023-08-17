@@ -53,11 +53,11 @@
   }, {
     "tag": "grant",
     "background": "#004040",
-    "_comment": "green"
+    "_comment": "ever green"
   }, {
     "tag": "proposed",
-    "background": "#FFA500",
-    "_comment": "orange"
+    "background": "#FF6600",
+    "_comment": "dark orange"
   }
   
   
