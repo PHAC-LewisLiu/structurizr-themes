@@ -58,7 +58,7 @@
     "tag": "proposed",
     "background": "#FF6600",
     "_comment": "dark orange"
-  } {
+  }, {
     "tag": "person",
     "shape": "Person"
   }
