@@ -60,7 +60,7 @@
     "_comment": "dark orange"
   }, {
     "tag": "human",
-    "shape": "human",
+    "shape": "Person",
   } 
   ]
 }
