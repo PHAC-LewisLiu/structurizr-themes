@@ -59,8 +59,8 @@
     "background": "#FF6600",
     "_comment": "dark orange"
   }, {
-    "tag": "human",
-    "shape": "Person",
+    "tag": "nhuman",
+    "shape": "window",
   } 
   ]
 }
