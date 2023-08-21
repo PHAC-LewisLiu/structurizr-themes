@@ -61,8 +61,10 @@
   } , {
     "tag": "human",
     "shape": "Person"
+  } , {
+    "tag": "report",
+    "shape": "Window"
   }
-  
   
   ]
 }
